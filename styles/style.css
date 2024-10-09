@@ -148,12 +148,14 @@ a{
     display: inline;
     float: left;
 }
+/* directions icon */
 .navbar > ul > li >a{
     position: absolute;
     color:var(--color-success);
     font-size:1.4em;
-    transform:translateY(30%);
+    transform:translateY(20%);
 }
+/* ----------------- */
 .navbar > ul>li > span{
     font-family:'Roboto Mono', monospace;
     font-size: 1.2rem;
